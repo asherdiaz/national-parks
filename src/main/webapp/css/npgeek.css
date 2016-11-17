@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+   font-family: 'Open Sans',serif;
+   font-size: 12px;
+}
+
+#logo img {
+	width: 400px;
+	position: relative;
+	display: inline-block;
+	left: 0;
+}
+
+#main-content {
+	margin: auto;
+	padding: 0px 100px;
+}
+
+#main-div {
+	maring: auto;
+	position: relative;
+	max-width: 1100px;
+	display: inline-block;
+	vertical-align:top;
+	padding: 20px;
+}
+
+#parkImageMain {
+	position: relative;
+	display: inline-block;
+	padding: 10px;
+	width: 275px;
+	vertical-align:top;
+}
+
+#parkImageMain img {
+	width: 250px;
+}
+
+#parkImage {
+	positon: relative;
+	display: inline-block;
+	width: 275px;
+	vertical-align:top;
+}
+
+#parkImage img {
+	width: 250px;
+	left: 0;
+	vertical-align:top;
+}
+
+#parkInfoMain {
+	position: relative;
+	display: inline-block;
+	width: 650px;
+	vertical-align:top;
+	padding: 0px 20px 0px 20px;
+}
+
+#parkInfo {
+	position: relative;
+	display: inline-block;
+	width: 400px;
+	vertical-align:top;
+	padding: 0px 20px 0px 20px;
+}
+
+#quoteBox {
+	position: relative;
+	display: inline-block;
+	right: 0;
+	width: 300px;
+}
+
+#description {
+	padding: 0px 20px 20px 20px;
+	width: 1100px;
+	vertical-align: top;
+}
+
+#quoteSrc {
+	text-align: right;
+	font-style: italic;
+}
+
+#bolded {
+	font-weight: bold;
+	padding-right: 5px;
+}
+
+#learn-more {
+	font-style: italic;
+	font-weight: bold;
+	text-align: right;
+}
+
+nav li {
+	list-style-type: none;
+	display: inline;
+	padding-right: 10px;
+	text-decoration: none;
+}
+
+nav {
+	display: inline-block;
+	position: relative;
+	right: 0;
+	width: 300px;
+}
+
+nav a {
+	text-decoration: none;
+	font-weight: bold;
+	color: darkgreen;
+	font-size: 14px;
+}
+
+#specificDay {
+	position: relative;
+	display: inline-block;
+	width: 150px;
+	vertical-align:top;
+	margin: 25px;
+}
+
+#forecastImage img {
+	width: 100px;
+}
+
+#highTemp, #lowTemp {
+	font-weight: bold;
+}
+
+#forecastCapitalize {
+	text-transform: capitalize;
+}
+
+#voteBox {
+	position: fixed;
+	right: 0px;
+	top: 0px;
+	width: 100px;
+	height: 50px;
+	background-color: blue;
+	color: white;
+	font-weight: bold;
+	text-align: middle;
+	font-size: 16px;
+	padding-top: 25px;
+	padding-left: 10px;
+	 
+}
+
+#voteBox a {
+	color: white;
+	text-decoration: none;
+}
+
