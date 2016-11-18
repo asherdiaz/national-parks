@@ -2,23 +2,29 @@
 This web application was completed as a capstone project for Tech Elevator, an intensive, 14-week coding school. The application uses a server (I used Apache Tomcat) and can be launched using the homepage.jsp file in the src/main/WEB-INF directory. 
 
 You can also view the code in the following directories:
+
+##How to Access Files
  
-----.jsp Files -----
+###.jsp Files
 
 src/main/WEB-INF
 
-----CSS Files----
+###CSS Files
 
 src/main/css
 
----Java Files---
+###Java Files
 
 national-parks/src/main/java/com/techelevator/npgeek/
 
----Description---
+##Description
 
 I created a dynamic web application which allows users to browse a selection of National Parks for more information about each park. While viewing a specific park's details, users can also view the upcoming five-day forecast with the ability to set the temperature to Farenheit or Celsius. Users can also vote for their favorite park and view a running list of parks with the most votes. 
 
----Technologies/Skills---
+##Technologies/Skills
 
-Java, SQL, Database Programming, Eclipse, MVC Design Pattern, Pair Programming
+*Java
+*SQL, Database Programming
+*Eclipse
+*MVC Design Pattern
+*Pair Programming
