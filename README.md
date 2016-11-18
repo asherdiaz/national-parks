@@ -1,5 +1,5 @@
 # national-parks
-This web application was completed as a capstone project for Tech Elevator, an intensive, 14-week coding school. The application uses a server (I used Apache Tomcat) and can be launched using the homepage.jsp file in the src/main/WEB-INF directory. 
+This web application was completed as a capstone project for Tech Elevator, an intensive, 14-week coding school. The application uses a server (I used Apache Tomcat).
 
 ##Description
 
